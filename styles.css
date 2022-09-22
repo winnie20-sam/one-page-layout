@@ -1,0 +1,64 @@
+
+h1  {
+  color:#3DB2FF;
+  position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+   text-align: center;
+   font-size: 40px;
+   font-family: sans-serif;
+   font-weight: bolder;
+}
+h4{
+  color: #fff;
+  position:absolute;
+  top:300px;
+  left:0;
+  width:100%;
+  text-align: center;
+}
+.started{
+  color:#fff;
+  text-align: center;
+  padding: 8px 15px;
+  background-color: #0F52BA;
+  position:relative;
+  width:50%;
+  max-width: 400px;
+}
+
+.colm{
+  float :left;
+  width:25%;
+padding: 0px;
+}
+.btnimage{
+  height:300px;
+  width:90%;
+}
+.btnname{
+  padding:5px 10px;
+  color:#fff;
+  background-color: #3DB2FF;
+  align-items: center;
+}
+h2{
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+  color:#3DB2FF;
+}
+p ,li{
+  text-align: center;
+}
+.footer{
+  background-color: #11324D;
+  padding-bottom: 25px;
+}
+i{
+  padding:25px;
+  color:#fff;
+
+
+}
